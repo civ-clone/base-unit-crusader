@@ -13,7 +13,8 @@
   "files": [
     "Crusader.js",
     "Crusader.d.ts",
-    "Crusader.js.map"
+    "Crusader.js.map",
+    "Crusader.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
